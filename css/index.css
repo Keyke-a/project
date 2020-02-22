@@ -1,0 +1,23 @@
+body
+{margin: 0px;}
+.header
+{background-color: black; color: white; height: 30px;}
+.header g 
+{float: right;margin:0px 10px;color: white;text-decoration: none;}
+.bg
+{height: 40%; width: 52%;}
+.kk
+{display: inline-block; width: 23%;}
+.border
+{border-bottom: ridge 0.5pc black;}
+.body
+{ width: 37%; float: right;}
+#ss
+{font-size: 0.7cm;font-family: Arial, Helvetica, sans-serif;}
+.inside
+{display: inline-block; padding: 10px;} 
+nav
+{position: absolute;bottom: 2px;}
+.grid-container {
+    display: grid;
+}
